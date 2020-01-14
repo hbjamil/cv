@@ -274,7 +274,7 @@ Developed a generic reusable framework, which enables the development of event d
 - Operating Systems Architecture, Networking theory
 - VLSI Techniques
 - Advance Software Engineering, System Analysis and Design and Algorithmic Analysis & Design
-- Operational Management, Dynamic Programming, Statistical Methods.
+- Operational Management, Dynamic Programming, Statistical Methods
 ```
 ### Projects
 ```
@@ -284,5 +284,5 @@ Developed a generic reusable framework, which enables the development of event d
 - FTP (File Transfer Protocol) Client
 - DBMS application for the Patients Admission System Aga Khan University Hospital
 - Statistical Methods Based Password Checker
-- Jigsaw Puzzle. 
+- Jigsaw Puzzle
 ```
