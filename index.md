@@ -86,7 +86,8 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 ```
 
 # Career Details
-## November 2018 - To date `IDEXX www.idexx.nl`
+
+## November 2018 - To date `IDEXX` www.idexx.nl
 ### Position: 
 Freelance Senior Java Developer / Architect
 ### Overview
@@ -96,41 +97,36 @@ Lead developer and Architect of the complete solution. This requires constant co
 ### Achievement
 Legacy system takes more than 1 hour to process a maximum of 10K records. New solution can process those records in 20 seconds and has no limitation on the maximum number of records. With this new solution Idexx can keep track of their daily revenue and order status nearly real time.
 ### Tools and technologies
-Java, Spring, Spring Boot, Spring Integration, Spring Batch, REST services, AWS Lambda, AWS Elasti Cache, AWS API-Gateway, AWS Global Accelerator, AWS Application Load balancer
+**Java, Spring, Spring Boot, Spring Integration, Spring Batch, REST services, AWS Lambda, AWS Elasti Cache, AWS API-Gateway, AWS Global Accelerator, AWS Application Load balancer**
 
+## November 2016 - October 2018 `NUON / Vattenfall`
+### Position: 
+Freelance Java and WSO2 Identity server lead designer. Solution Designer
+### Overview
+Implemented an Identity and Access Management (IAM) system for the Nuon (Vattenfall) B2C system. This system provides an authentication and authorization solution for a portal that has a user base of 1.9 million users. After a successful authentication process, these users can manage their products and track their engery usage. This IAM system uses the WSO2 Identity server as a core product and provides APIs for user authentication and user provisioning. During the migration period it also provides a federated authentication mechanism to migrate users from the legacy system to the new IAM system. The solution is built and deployed on top of Azure cloud components.
+### Role
+Team lead, Solution designer and Senior developer. It also involved managing and hiring new resources for the project designing and implementing the API. Providing technical assistance to the junior developers.
+### Achievement
+Migrated 1.9 million users to the new WSO2 based Single Sign ON IAM solution.
+### Tools and technologies
+**Java, Spring, WSO2 Identity Server, Azure cloud, MS SQL Server, Hazelcast distributed cache**
 
-You can use the [editor on GitHub](https://github.com/hbjamil/hbjamil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## June 2016 - October 2016 `ING Bank`
+### Position: 
+Freelance Senior Java Developer
+### Overview
+Working in the Risk Analysis and Computing team to migrate the legacy simulations to an Apache Spark based big data simulation system.
+### Role
+Senior Java and Spring developer migrating/implementing the legacy simulations to new platform. Also involved helping the management to create a migration strategy.
+### Tools and technologies
+**Java, Spring, Apache Spark, Google protocol buffers**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hbjamil/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## October 2015 - May 2016 `Rabobank International. Online security team`
+### Position: 
+Freelance Senior Java REST API Developer
+### Overview
+Designing and developing a REST API to facilitate corporate banking operations. This API System provides an intuitive and highly scalable interface to build internal and external systems for corporate clients. Back-end of the system uses SOAP services layers to access and manipulate the corporate data stored in LDAP and Oracle DB.
+### Role
+Senior developer designing and implementing the API. Providing technical assistance to the junior developers.
+### Tools and technologies
+**Java, Spring, Spring MVC/REST, Spring batch, Websphere, LDAP, Oracle**
