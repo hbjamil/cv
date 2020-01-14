@@ -87,7 +87,8 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 
 # Career Details
 
-## `November 2018 - To date IDEXX www.idexx.nl`
+## November 2018 - To date **IDEXX** www.idexx.nl
+`                                                                                                                                `
 ### Position: 
 Freelance Senior Java Developer / Architect
 ### Overview
@@ -99,7 +100,8 @@ Legacy system takes more than 1 hour to process a maximum of 10K records. New so
 ### Tools and technologies
 **Java, Spring, Spring Boot, Spring Integration, Spring Batch, REST services, AWS Lambda, AWS Elasti Cache, AWS API-Gateway, AWS Global Accelerator, AWS Application Load balancer**
 
-## November 2016 - October 2018 `NUON / Vattenfall`
+## November 2016 - October 2018 **NUON / Vattenfall**
+`                                                                                                                                `
 ### Position: 
 Freelance Java and WSO2 Identity server lead designer. Solution Designer
 ### Overview
@@ -111,7 +113,8 @@ Migrated 1.9 million users to the new WSO2 based Single Sign ON IAM solution.
 ### Tools and technologies
 **Java, Spring, WSO2 Identity Server, Azure cloud, MS SQL Server, Hazelcast distributed cache**
 
-## June 2016 - October 2016 `ING Bank`
+## June 2016 - October 2016 **ING Bank**
+`                                                                                                                                `
 ### Position: 
 Freelance Senior Java Developer
 ### Overview
@@ -121,7 +124,8 @@ Senior Java and Spring developer migrating/implementing the legacy simulations t
 ### Tools and technologies
 **Java, Spring, Apache Spark, Google protocol buffers**
 
-## October 2015 - May 2016 `Rabobank International. Online security team`
+## October 2015 - May 2016 **Rabobank International. Online security team**
+`                                                                                                                                `
 ### Position: 
 Freelance Senior Java REST API Developer
 ### Overview
@@ -130,3 +134,18 @@ Designing and developing a REST API to facilitate corporate banking operations. 
 Senior developer designing and implementing the API. Providing technical assistance to the junior developers.
 ### Tools and technologies
 **Java, Spring, Spring MVC/REST, Spring batch, Websphere, LDAP, Oracle**
+
+## September 2013 - September 2015 **KLM - Electronic Search & Booking tool**
+`                                                                                                                                `
+### Position: 
+Freelance Senior Software Engineer
+### Overview
+www.klm.com provides an online search and booking tool to find and book lowest price tickets. This site provides a unique view of cheapest flights per year and per month for both outbound and inbound flights. Month by month or day by day price overview gives every user an option to compare the prices and book a journey with optimum flexibility. The whole application is divided into two parts, Search and Checkout. Search provides a single page web application optimized for searching cheapest flying options and checkout helps user to buy extra options and make a payment.
+Rebooking functionality is recently added in this application,
+### Role
+Worked as a senior back-end developer for the REST based back-end for the search and booking tool. Also added a few simple and small front-end components for the single page search application.
+### Achievement
+Implemented 80% of the back-end for the rebooking functionality. Gain reputation as a star developer who can burn 40% of the sprint points without compromising any quality or standards and always deliver things in time.
+### Tools and technologies
+**Search is a single page web application built with html and java script. This front-end uses a REST based back-end written in Java to execute different use-cases. SOAP services’ clients fetch the information from Amadeus about flights and reservations. This system is recently moved to Tomcat (from Websphere) and uses Oracle db to store transactional data. This system also uses MQ to provide feed-back to the internal monitoring systems.**
+
