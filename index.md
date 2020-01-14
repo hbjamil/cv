@@ -87,7 +87,7 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 
 # Career Details
 
-## November 2018 - To date `IDEXX` www.idexx.nl
+## `November 2018 - To date IDEXX www.idexx.nl`
 ### Position: 
 Freelance Senior Java Developer / Architect
 ### Overview
