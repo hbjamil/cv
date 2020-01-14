@@ -8,7 +8,7 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 
 ## Career Summary
 | From/To | Company | Role |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | `Nov. 2018 – To date` |	**Idexx**	| `Senior Java Developer / Architect` |
 | `Nov. 2016 – Oct.2018` | **Nuon / Vattenfall** | `WSO2-IS / Java Lead Designer` |
 | `June. 2016 – Oct.2016` |	**ING Bank** | `Senior Java Developer` |
