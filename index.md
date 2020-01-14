@@ -266,9 +266,23 @@ Developed a generic reusable framework, which enables the development of event d
 
 ### Courses Studied
 ```
-Object Oriented Analysis and Design, C++, Java, COM, DCOM, Automata theory, Compiler construction, Discrete Mathematic, Relational Databases Design, Operating Systems Architecture, Networking theory, VLSI Techniques, Advance Software Engineering, System Analysis and Design and Algorithmic Analysis & Design, Operational Management, Dynamic Programming, Statistical Methods.
+- Object Oriented Analysis and Design
+- C++, Java, COM, DCOM
+- Automata theory, Compiler construction
+- Discrete Mathematic, 
+- Relational Databases Design
+- Operating Systems Architecture, Networking theory
+- VLSI Techniques
+- Advance Software Engineering, System Analysis and Design and Algorithmic Analysis & Design
+- Operational Management, Dynamic Programming, Statistical Methods.
 ```
 ### Projects
 ```
-Natural Language Processing Interface for the Traveling Guide expert system, Computer controlled Robotic Arm, Automated Semester Cell system for University of Karachi, FTP (File Transfer Protocol) Client, DBMS application for the Patients Admission System Aga Khan University Hospital, Statistical Methods Based Password Checker, Jigsaw Puzzle. 
+- Natural Language Processing Interface for the Traveling Guide expert system
+- Computer controlled Robotic Arm
+- Automated Semester Cell system for University of Karachi
+- FTP (File Transfer Protocol) Client
+- DBMS application for the Patients Admission System Aga Khan University Hospital
+- Statistical Methods Based Password Checker
+- Jigsaw Puzzle. 
 ```
