@@ -1,15 +1,10 @@
-# Hasan Bin Jamil
-### Athenelaan 207, 2152KL, Nieuw-Vennep
-### +31 6 48266957
-### hbjamil@gmail.com
-
-## Overview
+# Overview
 
 More than 15 to 20 years of exceptional track record in designing and implementing interoperable, distributed software solutions. A highly proficient software specialist with expertise in developing robust, cloud-based enterprise REST and microservices solutions that are scalable, high-performance software systems. Such systems require comprehensive knowledge of concurrent, distributed systems that are interoperable and need to communicate with other nodes in heterogeneous networks. Mr. Jamil is an excellent team player and his expertise lies in software architectures, object-oriented analysis and design, JEE and Java technology and modern software development processes.
 
-## Career Summary
+# Career Summary
 
-| From/To | Company | Role |
+|  |  |  |
 | :--- | :--- | :--- |
 | `Nov. 2018 – To date` |	**Idexx**	| `Senior Java Developer / Architect` |
 | `Nov. 2016 – Oct.2018` | **Nuon / Vattenfall** | `WSO2-IS / Java Lead Designer` |
@@ -25,6 +20,25 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 | `Nov. 2002 – Mar. 2006` |	**Telewest Communications NV/SA** | `Software Architect / Developer` (via XyberMoguls) |
 | `Dec. 2000 – Oct. 2002` |	**IMC B.V.** | `Senior Software Engineer` (via XyberMoguls) |
 | `Dec. 1999 – Mar 2007` | **XyberMoguls B.V.** |	`Software Engineer` |
+
+# Academic Summary
+
+|  |  |  |
+| :--- | :--- | :--- |
+| `1996 - 1999` |	**University Of Karachi, Pakistan**	| `B.S. Computer Science` |
+| `2009 - 2011` | **ROC, The Netherlands** | `Inburgering / Dutch language course` |
+
+# Competence Summary
+
+## Domains
+
+## Languages, technologies and frameworks
+
+## Protocols
+
+## Application and Web Servers
+
+
 
 
 You can use the [editor on GitHub](https://github.com/hbjamil/hbjamil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
