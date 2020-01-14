@@ -4,16 +4,13 @@
 ### hbjamil@gmail.com
 
 ## Overview
+
 More than 15 to 20 years of exceptional track record in designing and implementing interoperable, distributed software solutions. A highly proficient software specialist with expertise in developing robust, cloud-based enterprise REST and microservices solutions that are scalable, high-performance software systems. Such systems require comprehensive knowledge of concurrent, distributed systems that are interoperable and need to communicate with other nodes in heterogeneous networks. Mr. Jamil is an excellent team player and his expertise lies in software architectures, object-oriented analysis and design, JEE and Java technology and modern software development processes.
 
 ## Career Summary
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
 
 | From/To | Company | Role |
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | `Nov. 2018 – To date` |	**Idexx**	| `Senior Java Developer / Architect` |
 | `Nov. 2016 – Oct.2018` | **Nuon / Vattenfall** | `WSO2-IS / Java Lead Designer` |
 | `June. 2016 – Oct.2016` |	**ING Bank** | `Senior Java Developer` |
