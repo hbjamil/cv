@@ -11,11 +11,11 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 | `June 2016 – October 2016` |	**ING Bank** | [`Senior Java Developer`](#june-2016---october-2016) |
 | `October 2015 – May 2016` |	**Rabobank International** | [`Senior Java Rest API developer`](#october-2015---may-2016) |
 | `September 2013 – September 2015` | **KLM**	| [`Senior Java developer for www.klm.com electronic booking system`](#september-2013---september-2015) |
-| `September 2010 – August 2013` | **IMC B.V.**	| [`Electronic exchange connectivity Developer`](#september-2010---auguest-2013) |
-| `April 2010 – August 2010` |	**KLM** | [`J2EE / Web services consultant` (via Capgemini)](#april-2009---march-2010) |
+| `September 2010 – August 2013` | **IMC B.V.**	| [`Electronic exchange connectivity Developer`](#september-2010---august-2013) |
+| `April 2010 – August 2010` |	**KLM** | [`J2EE / Web services consultant` (via Capgemini)](#april-2009---august-2010) |
 | `April 2009 – March 2010` |	**Allianz** |	[`Senior Developer / Analyst` (via Capgemini)](#april-2009---march-2010) |
 | `April 2007 – March 2009` |	**Nationale Nederlanden** |	[`Technical Analyst / Coordinator` (via Capgemini)](#april-2007---march-2009) |
-| `April 2007 – August 2010` |	**Capgemini Netherlands** |	[`Senior Consultant` (via Capgemini)](#april-2007---august-2010) |
+| `April 2007 – August 2010` |	**Capgemini Netherlands** |	[`Senior Consultant`](#april-2007---august-2010) |
 | `April 2006 – March 2007` |	**International Industries Limited** | [`Software Architect / Developer` (via XyberMoguls)](#april-2006---march-2007) |
 | `November 2002 – March 2006` |	**Telewest Communications NV/SA** | [`Software Architect / Developer` (via XyberMoguls)](#november-2002---march-2006) |
 | `December 2000 – October 2002` |	**IMC B.V.** | [`Senior Software Engineer` (via XyberMoguls)](#december-2000---october-2002) |
