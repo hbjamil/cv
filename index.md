@@ -99,6 +99,7 @@ Lead developer and Architect of the complete solution. This requires constant co
 Legacy system takes more than 1 hour to process a maximum of 10K records. New solution can process those records in 20 seconds and has no limitation on the maximum number of records. With this new solution Idexx can keep track of their daily revenue and order status nearly real time.
 ### Tools and technologies
 **Java, Spring, Spring Boot, Spring Integration, Spring Batch, REST services, AWS Lambda, AWS Elasti Cache, AWS API-Gateway, AWS Global Accelerator, AWS Application Load balancer**
+
 </details>
 
 ```
