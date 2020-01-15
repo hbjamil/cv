@@ -96,7 +96,7 @@ More than 20 years of exceptional track record in designing and implementing int
 ### Position: 
 Freelance Senior Java Developer / Architect
 ### Overview
-Developed an integration layer between an inhouse developed Animal Health Care and (SAP) Finance system. The integration of the two system is required to generate financial reports and customer invoices. It also enables Idexx to keep track of their daily revenue. This integration layer compromises of service-oriented (two way) channels and batch processes which are developed using Spring Boot, Spring Integration, Spring Batch and Amazon Cloud platform. The solution is developed for Canada and UK markets and process millions of requests and records per day.
+Developed an integration layer between an inhouse developed Animal Health Care and (SAP) Finance system. The integration of the two system is required to generate financial reports and customer invoices. It also enables Idexx to keep track of their daily revenue. This integration layer comprises of service-oriented (two way) channels and batch processes which are developed using Spring Boot, Spring Integration, Spring Batch and Amazon Cloud platform. The solution is developed for Canada and UK markets and process millions of requests and records per day.
 ### Role
 Lead developer and Architect of the complete solution. This requires constant communication with Canada and UK analysts and business and layout a solution which can work for multiple markets with vastly different requirements.
 ### Achievement
