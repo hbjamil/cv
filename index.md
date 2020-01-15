@@ -87,9 +87,11 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 
 # Career Details
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## November 2018 - To date **IDEXX** www.idexx.nl
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Freelance Senior Java Developer / Architect
 ### Overview
@@ -101,9 +103,11 @@ Legacy system takes more than 1 hour to process a maximum of 10K records. New so
 ### Tools and technologies
 **Java, Spring, Spring Boot, Spring Integration, Spring Batch, REST services, AWS Lambda, AWS Elasti Cache, AWS API-Gateway, AWS Global Accelerator, AWS Application Load balancer**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## November 2016 - October 2018 **NUON / Vattenfall**
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Freelance Java and WSO2 Identity server lead designer. Solution Designer
 ### Overview
@@ -115,9 +119,11 @@ Migrated 1.9 million users to the new WSO2 based Single Sign ON IAM solution.
 ### Tools and technologies
 **Java, Spring, WSO2 Identity Server, Azure cloud, MS SQL Server, Hazelcast distributed cache**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## June 2016 - October 2016 **ING Bank**
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Freelance Senior Java Developer
 ### Overview
@@ -127,9 +133,11 @@ Senior Java and Spring developer migrating/implementing the legacy simulations t
 ### Tools and technologies
 **Java, Spring, Apache Spark, Google protocol buffers**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## October 2015 - May 2016 **Rabobank International. Online security team**
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Freelance Senior Java REST API Developer
 ### Overview
@@ -139,9 +147,11 @@ Senior developer designing and implementing the API. Providing technical assista
 ### Tools and technologies
 **Java, Spring, Spring MVC/REST, Spring batch, Websphere, LDAP, Oracle**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## September 2013 - September 2015 **KLM - Electronic Search & Booking tool**
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Freelance Senior Software Engineer
 ### Overview
@@ -153,9 +163,11 @@ Implemented 80% of the back-end for the rebooking functionality. Gain reputation
 ### Tools and technologies
 **Search is a single page web application built with html and java script. This front-end uses a REST based back-end written in Java to execute different use-cases. SOAP services’ clients fetch the information from Amadeus about flights and reservations. This system is recently moved to Tomcat (from Websphere) and uses Oracle db to store transactional data. This system also uses MQ to provide feed-back to the internal monitoring systems.**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## September 2010 - August 2013 **International Market Makers B.V. (IMC)**
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Electronic Exchange connectivity software engineer
 ### Overview
@@ -167,9 +179,11 @@ Successfully developed mass quoting for CME exchange. Developed the software to 
 ### Tools and technologies
 **The system is designed using state of art Object Oriented and concurrency patterns. It is written in Java/JEE and runs under Linux and Windows and uses MySQL database. Objects are serialized using XML and Java standards and distributed over TCP and UDP.**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## April 2010 - August 2010 **KLM - JEE Consultant** (via Capgemini)
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Senior J2EE / Web Services consultant
 ### Overview
@@ -181,9 +195,11 @@ Improving services performance by 30%, porting JAXB services to JiBX.
 ### Tools and technologies
 **Java, JAX-WS, JiBX, Spring, Hibernate, Websphere, TIBCO.**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## April 2009 - March 2010 **Allianz – Hypolife mortgage system** (via Capgemini)
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Senior Software Developer
 ### Overview
@@ -196,9 +212,11 @@ MDSD approach makes it possible to add late requirements efficiently. Hypolife s
 ### Tools and technologies
 **Java, Spring, Hibernate, Spring Webflow, JBoss (for development), Websphere (for production environment), Hypersonic, DB-2.**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## April 2007 - March 2009 **Nationale Nederlanden – DUPLO system** (via Capgemini)
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Technical Software Analyst and Architect 
 ### Overview
@@ -212,9 +230,11 @@ The staging system designed to add requests and process mutations cuts down the 
 ### Tools and technologies
 **Java, EJB, Websphere, Oracle, DB-2**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## April 2006 - March 2007 **International Industries Limited – FlexTrack MRP Solution** (via Xybermoguls)
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Software Architect / Senior Developer
 ### Overview
@@ -226,9 +246,11 @@ The user can track the complete life cycle, from coil to the pipe production, wi
 ### Tools and technologies
 **Java, EJB, Hibernate, JBoss, MySQL, SQL Server 2000**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## Nov 2002 - March 2006 **Telewest Communications – FlexTrack: Revenue Tracking** (via Xybermoguls)
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Software Architect / Senior Developer
 ### Overview
@@ -243,9 +265,11 @@ The maiden deployment at a Belgian Telco has resulted in dramatic reduction of f
 **Revenue Tracking is written in JAVA, implemented on the J2EE framework, is platform neutral and deployed on JBOSS application sever and Linux. It can also be deployed using 
 BEA Weblogic or IBM WebSphere Application Servers. It’s designed using the Object Oriented paradigm and makes good use of patterns. Development of the systems requires sound knowledge of Hibernate, JDBC, JFC, EJB, Java RMI and CORBA.  Development tools used included: the IBM Rational Suite, JRUN, TogetherJ and JPROBE**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## December 2000 - October 2002 **International Market Makers B.V. (IMC) - Option Trading Platform** (via Xybermoguls)
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Software Engineer and participated in the Architecture team
 ### Overview
@@ -257,9 +281,11 @@ Successfully developed a framework to develop electronic trading applications an
 ### Tools and technologies
 **The system is designed using state of art Object Oriented patterns. It is written in Java and runs under Linux and Windows and uses MySQL database. JavaCC is used to implement parsers. Objects are serialized using XML and Java standards and distributed over TCP/IP. JProbe is part of the unit testing mechanism and is used to quantify the performance of the packages and components**
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## December 1999 - December 2000 **XyberMoguls B.V. (XM) – FlexTrack: A Telecom Server Platform**
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Position: 
 Senior Software Engineer 
 ### Overview
@@ -275,9 +301,11 @@ Developed a generic reusable framework, which enables the development of event d
 
 # Academic Details
 
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ## 1996 - 1999 **B.S. Computer Science - University Of Karachi, Pakistan**
-`--------------------------------------------------------------------------------------------------------------------------------------`
+```
+```
 ### Courses Studied
 ```
 - Object Oriented Analysis and Design
