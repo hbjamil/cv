@@ -85,7 +85,7 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 - TDD
 ```
 
-[create an anchor](#november-2018-to-date-idexx-www.idexx.nl)
+[create an anchor](#november-2018-to-date)
 
 [another anchor](#test-anchor)
 
@@ -93,7 +93,9 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 
 ```
 ```
-## November 2018 - To date **IDEXX** www.idexx.nl
+## November 2018-To date
+## **IDEXX**
+## www.idexx.nl
 ```
 ```
 ### Position: 
