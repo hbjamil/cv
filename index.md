@@ -6,27 +6,26 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 
 |  |  |  |
 | :--- | :---: | :--- |
-| [`November 2018–To date`](#november-2018---to-date) |	[**Idexx**](#november-2018---to-date)	| [`Senior Java Developer / Architect`](#november-2018---to-date) |
-| `November 2016–October 2018` | **Nuon / Vattenfall** | `WSO2-IS / Java Lead Designer` |
-| `June 2016 – October 2016` |	**ING Bank** | `Senior Java Developer` |
-| `October 2015 – May 2016` |	**Rabobank International** | `Senior Java Rest API developer` |
-| `September 2013 – September 2015` | **KLM**	| `Senior Java developer for www.klm.com electronic booking system` |
-| `September 2010 – August 2013` | **IMC B.V.**	| `Electronic exchange connectivity Developer` |
-| `April 2010 – August 2010` |	**KLM** | `J2EE / Web services consultant` (via Capgemini) |
-| `April 2009 – March 2010` |	**Allianz** |	`Senior Developer / Analyst` (via Capgemini) |
-| `April 2007 – March 2009` |	**Nationale Nederlanden** |	`Technical Analyst / Coordinator` (via Capgemini) |
-| `April 2007 – August 2010` |	**Capgemini Netherlands** |	`Senior Consultant` (via Capgemini) |
-| `April 2006 – March 2007` |	**International Industries Limited** | `Software Architect / Developer` (via XyberMoguls) |
-| `November 2002 – March 2006` |	**Telewest Communications NV/SA** | `Software Architect / Developer` (via XyberMoguls) |
-| `December 2000 – October 2002` |	**IMC B.V.** | `Senior Software Engineer` (via XyberMoguls) |
-| `December 1999 – March 2007` | **XyberMoguls B.V.** |	`Software Engineer` |
-
+| `November 2018–To date` |	**Idexx**	| [`Senior Java Developer / Architect`](#november-2018---to-date) |
+| `November 2016–October 2018` | **Nuon / Vattenfall** | [`WSO2-IS / Java Lead Designer`](#november-2016---october-2018) |
+| `June 2016 – October 2016` |	**ING Bank** | [`Senior Java Developer`](#june-2016---october-2016) |
+| `October 2015 – May 2016` |	**Rabobank International** | [`Senior Java Rest API developer`](#october-2015---may-2016) |
+| `September 2013 – September 2015` | **KLM**	| [`Senior Java developer for www.klm.com electronic booking system`](#september-2013---september-2015) |
+| `September 2010 – August 2013` | **IMC B.V.**	| [`Electronic exchange connectivity Developer`](#september-2010---auguest-2013) |
+| `April 2010 – August 2010` |	**KLM** | [`J2EE / Web services consultant` (via Capgemini)](#april-2009---march-2010) |
+| `April 2009 – March 2010` |	**Allianz** |	[`Senior Developer / Analyst` (via Capgemini)](#april-2009---march-2010) |
+| `April 2007 – March 2009` |	**Nationale Nederlanden** |	[`Technical Analyst / Coordinator` (via Capgemini)](#april-2007---march-2009) |
+| `April 2007 – August 2010` |	**Capgemini Netherlands** |	[`Senior Consultant` (via Capgemini)](#april-2007---august-2010) |
+| `April 2006 – March 2007` |	**International Industries Limited** | [`Software Architect / Developer` (via XyberMoguls)](#april-2006---march-2007) |
+| `November 2002 – March 2006` |	**Telewest Communications NV/SA** | [`Software Architect / Developer` (via XyberMoguls)](#november-2002---march-2006) |
+| `December 2000 – October 2002` |	**IMC B.V.** | [`Senior Software Engineer` (via XyberMoguls)](#december-2000---october-2002) |
+| `December 1999 – March 2007` | **XyberMoguls B.V.** |	[`Software Engineer`](#december-1999---march-2007) |
 
 # Academic Summary
 
 |  |  |  |
 | :--- | :--- | :--- |
-| `1996 - 1999` |	**University Of Karachi, Pakistan**	| `B.S. Computer Science` |
+| `1996 - 1999` |	**University Of Karachi, Pakistan**	| [`B.S. Computer Science`](#1996---1999) |
 | `2009 - 2011` | **ROC, The Netherlands** | `Inburgering / Dutch language course` |
 
 # Competence Summary
@@ -107,7 +106,8 @@ Legacy system takes more than 1 hour to process a maximum of 10K records. New so
 
 ```
 ```
-## November 2016 - October 2018 **NUON / Vattenfall**
+## November 2016 - October 2018
+### **NUON / Vattenfall**
 ```
 ```
 ### Position: 
@@ -123,7 +123,8 @@ Migrated 1.9 million users to the new WSO2 based Single Sign ON IAM solution.
 
 ```
 ```
-## June 2016 - October 2016 **ING Bank**
+## June 2016 - October 2016
+### **ING Bank**
 ```
 ```
 ### Position: 
@@ -137,7 +138,8 @@ Senior Java and Spring developer migrating/implementing the legacy simulations t
 
 ```
 ```
-## October 2015 - May 2016 **Rabobank International. Online security team**
+## October 2015 - May 2016
+### **Rabobank International. Online security team**
 ```
 ```
 ### Position: 
@@ -151,7 +153,8 @@ Senior developer designing and implementing the API. Providing technical assista
 
 ```
 ```
-## September 2013 - September 2015 **KLM - Electronic Search & Booking tool**
+## September 2013 - September 2015
+### **KLM - Electronic Search & Booking tool**
 ```
 ```
 ### Position: 
@@ -167,7 +170,8 @@ Implemented 80% of the back-end for the rebooking functionality. Gain reputation
 
 ```
 ```
-## September 2010 - August 2013 **International Market Makers B.V. (IMC)**
+## September 2010 - August 2013
+### **International Market Makers B.V. (IMC)**
 ```
 ```
 ### Position: 
@@ -183,7 +187,8 @@ Successfully developed mass quoting for CME exchange. Developed the software to 
 
 ```
 ```
-## April 2010 - August 2010 **KLM - JEE Consultant** (via Capgemini)
+## April 2010 - August 2010
+### **KLM - JEE Consultant** (via Capgemini)
 ```
 ```
 ### Position: 
@@ -199,7 +204,8 @@ Improving services performance by 30%, porting JAXB services to JiBX.
 
 ```
 ```
-## April 2009 - March 2010 **Allianz – Hypolife mortgage system** (via Capgemini)
+## April 2009 - March 2010
+### **Allianz – Hypolife mortgage system** (via Capgemini)
 ```
 ```
 ### Position: 
@@ -216,7 +222,8 @@ MDSD approach makes it possible to add late requirements efficiently. Hypolife s
 
 ```
 ```
-## April 2007 - March 2009 **Nationale Nederlanden – DUPLO system** (via Capgemini)
+## April 2007 - March 2009
+### **Nationale Nederlanden – DUPLO system** (via Capgemini)
 ```
 ```
 ### Position: 
@@ -234,7 +241,8 @@ The staging system designed to add requests and process mutations cuts down the 
 
 ```
 ```
-## April 2006 - March 2007 **International Industries Limited – FlexTrack MRP Solution** (via Xybermoguls)
+## April 2006 - March 2007
+### **International Industries Limited – FlexTrack MRP Solution** (via Xybermoguls)
 ```
 ```
 ### Position: 
@@ -250,7 +258,8 @@ The user can track the complete life cycle, from coil to the pipe production, wi
 
 ```
 ```
-## Nov 2002 - March 2006 **Telewest Communications – FlexTrack: Revenue Tracking** (via Xybermoguls)
+## Nov 2002 - March 2006
+### **Telewest Communications – FlexTrack: Revenue Tracking** (via Xybermoguls)
 ```
 ```
 ### Position: 
@@ -269,7 +278,8 @@ BEA Weblogic or IBM WebSphere Application Servers. It’s designed using the Obj
 
 ```
 ```
-## December 2000 - October 2002 **International Market Makers B.V. (IMC) - Option Trading Platform** (via Xybermoguls)
+## December 2000 - October 2002
+### **International Market Makers B.V. (IMC) - Option Trading Platform** (via Xybermoguls)
 ```
 ```
 ### Position: 
@@ -285,7 +295,8 @@ Successfully developed a framework to develop electronic trading applications an
 
 ```
 ```
-## December 1999 - December 2000 **XyberMoguls B.V. (XM) – FlexTrack: A Telecom Server Platform**
+## December 1999 - December 2000
+### **XyberMoguls B.V. (XM) – FlexTrack: A Telecom Server Platform**
 ```
 ```
 ### Position: 
@@ -305,7 +316,8 @@ Developed a generic reusable framework, which enables the development of event d
 
 ```
 ```
-## 1996 - 1999 **B.S. Computer Science - University Of Karachi, Pakistan**
+## 1996 - 1999
+### **B.S. Computer Science - University Of Karachi, Pakistan**
 ```
 ```
 ### Courses Studied
