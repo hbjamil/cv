@@ -38,6 +38,11 @@ More than 20 years of exceptional track record in designing and implementing int
 - Electronic Flight Booking
 - Healthcare
 ```
+### Cloud Platforms
+```
+- Azure (API management, VMs, Loadbalancer)
+- AWS (API Gateway, ElastiCache, Lambda, VPC, Loadbalaner, Global Accelarator, S3, Route53)
+```
 ### Languages, Tools, Technologies and Frameworks
 ```
 - Java 8
@@ -71,11 +76,6 @@ More than 20 years of exceptional track record in designing and implementing int
 ### Databases
 ```
 - Oracle, MySQL, SQL Server, InfiniSpan
-```
-### Cloud Platforms
-```
-- Azure (API management, VMs, Loadbalancer)
-- AWS (API Gateway, ElastiCache, Lambda, VPC, Loadbalaner, Global Accelarator, S3, Route53)
 ```
 ### Software Processes
 ```
