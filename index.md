@@ -1,6 +1,6 @@
 # Overview
 
-More than 15 to 20 years of exceptional track record in designing and implementing interoperable, distributed software solutions. A highly proficient software specialist with expertise in developing robust, cloud-based enterprise REST and microservices solutions that are scalable, high-performance software systems. Such systems require comprehensive knowledge of concurrent, distributed systems that are interoperable and need to communicate with other nodes in heterogeneous networks. Mr. Jamil is an excellent team player and his expertise lies in software architectures, object-oriented analysis and design, JEE and Java technology and modern software development processes.
+More than 20 years of exceptional track record in designing and implementing interoperable, distributed software solutions. A highly proficient software specialist with expertise in developing robust, cloud-based REST and microservices solutions that are scalable, high-performance software systems. Such systems require comprehensive knowledge of concurrent, distributed systems that are interoperable and need to communicate with other nodes in heterogeneous networks. Mr. Jamil is an excellent team player and his expertise lies in software architectures, object-oriented analysis and design, JEE and Java technology and modern software development processes.
 
 # Career Summary
 
