@@ -10,9 +10,9 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 | `November 2016–October 2018` | **Nuon / Vattenfall** | [`WSO2-IS / Java Lead Designer`](#november-2016---october-2018) |
 | `June 2016 – October 2016` |	**ING Bank** | [`Senior Java Developer`](#june-2016---october-2016) |
 | `October 2015 – May 2016` |	**Rabobank International** | [`Senior Java Rest API developer`](#october-2015---may-2016) |
-| `September 2013 – September 2015` | **KLM**	| [`Senior Java developer for www.klm.com electronic booking system`](#september-2013---september-2015) |
+| `September 2013 – September 2015` | **KLM**	| [`Senior Java developer Electronic Search & Booking system`](#september-2013---september-2015) |
 | `September 2010 – August 2013` | **IMC B.V.**	| [`Electronic exchange connectivity Developer`](#september-2010---august-2013) |
-| `April 2010 – August 2010` |	**KLM** | [`J2EE / Web services consultant` *(via Capgemini)*](#april-2009---august-2010) |
+| `April 2010 – August 2010` |	**KLM** | [`J2EE / Web services consultant` *(via Capgemini)*](#april-2010---august-2010) |
 | `April 2009 – March 2010` |	**Allianz** |	[`Senior Developer / Analyst` *(via Capgemini)*](#april-2009---march-2010) |
 | `April 2007 – March 2009` |	**Nationale Nederlanden** |	[`Technical Analyst / Coordinator` *(via Capgemini)*](#april-2007---march-2009) |
 | `April 2007 – August 2010` |	**Capgemini Netherlands** |	`Senior Consultant` |
