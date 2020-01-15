@@ -103,7 +103,7 @@ Legacy system takes more than 1 hour to process a maximum of 10K records. New so
 
 ```
 ```
-## November 2018 - To date **IDEXX** www.idexx.nl
+[November 2018 - To date - IDEXX](november-2018-to-date-idexx)
 ```
 ```
 ### Position: 
