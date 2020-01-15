@@ -85,26 +85,13 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 - TDD
 ```
 
+[create an anchor](november-2018-to-date-idexx-www.idexx.nl)
+
 # Career Details
-<details>   
-  <summary><b>November 2018 - To date IDEXX www.idexx.nl</b></summary>
-
-### Position: 
-Freelance Senior Java Developer / Architect
-### Overview
-Developed an integration layer between an inhouse developed Animal Health Care and (SAP) Finance system. The integration of the two system is required to generate financial reports and customer invoices. It also enables Idexx to keep track of their daily revenue. This integration layer compromises of service-oriented (two way) channels and batch processes which are developed using Spring Boot, Spring Integration, Spring Batch and Amazon Cloud platform. The solution is developed for Canada and UK markets and process millions of requests and records per day.
-### Role
-Lead developer and Architect of the complete solution. This requires constant communication with Canada and UK analysts and business and layout a solution which can work for multiple markets with vastly different requirements.
-### Achievement
-Legacy system takes more than 1 hour to process a maximum of 10K records. New solution can process those records in 20 seconds and has no limitation on the maximum number of records. With this new solution Idexx can keep track of their daily revenue and order status nearly real time.
-### Tools and technologies
-**Java, Spring, Spring Boot, Spring Integration, Spring Batch, REST services, AWS Lambda, AWS Elasti Cache, AWS API-Gateway, AWS Global Accelerator, AWS Application Load balancer**
-
-</details>
 
 ```
 ```
-[November 2018 - To date - IDEXX](november-2018-to-date-idexx)
+## November 2018 - To date **IDEXX** www.idexx.nl
 ```
 ```
 ### Position: 
