@@ -32,7 +32,7 @@ More than 20 years of exceptional track record in designing and implementing int
 
 ### Domains
 ```
-- Identify and Access Management
+- Identity and Access Management
 - Corporate Banking
 - Electronic Trading
 - Electronic Flight Booking
