@@ -5,21 +5,21 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 # Career Summary
 
 |  |  |  |
-| :--- | :--- | :--- |
-| [`Nov. 2018 – To date`](#november-2018---to-date) |	[**Idexx**](#november-2018---to-date)	| [`Senior Java Developer / Architect`](#november-2018---to-date) |
-| `Nov. 2016 – Oct.2018` | **Nuon / Vattenfall** | `WSO2-IS / Java Lead Designer` |
-| `June. 2016 – Oct.2016` |	**ING Bank** | `Senior Java Developer` |
-| `Oct. 2015 – May. 2016` |	**Rabobank International** | `Senior Java Rest API developer` |
-| `Sep. 2013 – Sep. 2015` | **KLM**	| `Senior Java developer for www.klm.com electronic booking system` |
-| `Sep. 2010 – Aug. 2013` | **IMC B.V.**	| `Electronic exchange connectivity Developer` |
-| `Apr. 2010 – Aug. 2010` |	**KLM** | `J2EE / Web services consultant` (via Capgemini) |
-| `Apr. 2009 – Mar. 2010` |	**Allianz** |	`Senior Developer / Analyst` (via Capgemini) |
-| `Apr. 2007 – Mar. 2009` |	**Nationale Nederlanden** |	`Technical Analyst / Coordinator` (via Capgemini) |
-| `Apr. 2007 – Aug. 2010` |	**Capgemini Netherlands** |	`Senior Consultant` (via Capgemini) |
-| `Apr. 2006 – Mar. 2007` |	**International Industries Limited** | `Software Architect / Developer` (via XyberMoguls) |
-| `Nov. 2002 – Mar. 2006` |	**Telewest Communications NV/SA** | `Software Architect / Developer` (via XyberMoguls) |
-| `Dec. 2000 – Oct. 2002` |	**IMC B.V.** | `Senior Software Engineer` (via XyberMoguls) |
-| `Dec. 1999 – Mar 2007` | **XyberMoguls B.V.** |	`Software Engineer` |
+| :--- | :---: | :--- |
+| [`November 2018–To date`](#november-2018---to-date) |	[**Idexx**](#november-2018---to-date)	| [`Senior Java Developer / Architect`](#november-2018---to-date) |
+| `November 2016–October 2018` | **Nuon / Vattenfall** | `WSO2-IS / Java Lead Designer` |
+| `June 2016 – October 2016` |	**ING Bank** | `Senior Java Developer` |
+| `October 2015 – May 2016` |	**Rabobank International** | `Senior Java Rest API developer` |
+| `September 2013 – September 2015` | **KLM**	| `Senior Java developer for www.klm.com electronic booking system` |
+| `September 2010 – August 2013` | **IMC B.V.**	| `Electronic exchange connectivity Developer` |
+| `April 2010 – August 2010` |	**KLM** | `J2EE / Web services consultant` (via Capgemini) |
+| `April 2009 – March 2010` |	**Allianz** |	`Senior Developer / Analyst` (via Capgemini) |
+| `April 2007 – March 2009` |	**Nationale Nederlanden** |	`Technical Analyst / Coordinator` (via Capgemini) |
+| `April 2007 – August 2010` |	**Capgemini Netherlands** |	`Senior Consultant` (via Capgemini) |
+| `April 2006 – March 2007` |	**International Industries Limited** | `Software Architect / Developer` (via XyberMoguls) |
+| `November 2002 – March 2006` |	**Telewest Communications NV/SA** | `Software Architect / Developer` (via XyberMoguls) |
+| `December 2000 – October 2002` |	**IMC B.V.** | `Senior Software Engineer` (via XyberMoguls) |
+| `December 1999 – March 2007` | **XyberMoguls B.V.** |	`Software Engineer` |
 
 
 # Academic Summary
