@@ -6,7 +6,7 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 
 |  |  |  |
 | :--- | :--- | :--- |
-| `Nov. 2018 – To date` |	**Idexx**	| `Senior Java Developer / Architect` |
+| [`Nov. 2018 – To date`](#november-2018---to-date) |	[**Idexx**](#november-2018---to-date)	| [`Senior Java Developer / Architect`](#november-2018---to-date) |
 | `Nov. 2016 – Oct.2018` | **Nuon / Vattenfall** | `WSO2-IS / Java Lead Designer` |
 | `June. 2016 – Oct.2016` |	**ING Bank** | `Senior Java Developer` |
 | `Oct. 2015 – May. 2016` |	**Rabobank International** | `Senior Java Rest API developer` |
@@ -85,10 +85,6 @@ More than 15 to 20 years of exceptional track record in designing and implementi
 - TDD
 ```
 
-[create an anchor](#november-2018---to-date)
-
-[another anchor](#test-anchor)
-
 # Career Details
 
 ```
@@ -108,8 +104,6 @@ Lead developer and Architect of the complete solution. This requires constant co
 Legacy system takes more than 1 hour to process a maximum of 10K records. New solution can process those records in 20 seconds and has no limitation on the maximum number of records. With this new solution Idexx can keep track of their daily revenue and order status nearly real time.
 ### Tools and technologies
 **Java, Spring, Spring Boot, Spring Integration, Spring Batch, REST services, AWS Lambda, AWS Elasti Cache, AWS API-Gateway, AWS Global Accelerator, AWS Application Load balancer**
-
-# Test anchor
 
 ```
 ```
