@@ -6,8 +6,9 @@ More than 20 years of exceptional track record in designing and implementing int
 
 |  |  |  |
 | :--- | :---: | :--- |
-| `November 2018–To date` |	**Idexx**	| [`Senior Java Developer / Architect`](#november-2018---to-date) |
-| `November 2016–October 2018` | **Nuon / Vattenfall** | [`WSO2-IS / Java Lead Designer`](#november-2016---october-2018) |
+| `March 2020 – To date` |	**EuroCCP**	| [`Senior Java Developer`](#march-2020---to-date) |
+| `November 2018 – March 2020` |	**Idexx**	| [`Senior Java Developer / Architect`](#november-2018---march-2020) |
+| `November 2016 – October 2018` | **Nuon / Vattenfall** | [`WSO2-IS / Java Lead Designer`](#november-2016---october-2018) |
 | `June 2016 – October 2016` |	**ING Bank** | [`Senior Java Developer`](#june-2016---october-2016) |
 | `October 2015 – May 2016` |	**Rabobank International** | [`Senior Java Rest API developer`](#october-2015---may-2016) |
 | `September 2013 – September 2015` | **KLM**	| [`Senior Java developer Electronic Search & Booking system`](#september-2013---september-2015) |
@@ -88,7 +89,25 @@ More than 20 years of exceptional track record in designing and implementing int
 
 ```
 ```
-## November 2018 - To date
+## March 2020 - to-date
+### **EuroCCP**
+### www.euroccp.com
+```
+```
+### Position: 
+Freelance Senior Java Developer
+### Overview
+Developed the complete Liquidity Management Project in record time. Worked in a small team and delivered the whole solution in 3 month, while working from home from day 1.
+### Role
+Senior Java developer
+### Achievement
+Built the complete Call management module. This module generates mandatory or optional debit request for trading parties, based on the current liquidity need for settling trade transaction.
+### Tools and technologies
+**Java, Spring, Spring Boot, REST services**
+
+```
+```
+## November 2018 - March-2020
 ### **IDEXX**
 ### www.idexx.nl
 ```
