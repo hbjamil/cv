@@ -6,7 +6,7 @@ More than 20 years of exceptional track record in designing and implementing int
 
 |  |  |  |
 | :--- | :---: | :--- |
-| `March 2020 – To date` |	**EuroCCP**	| [`Senior Java Developer`](#march-2020---to-date) |
+| `March 2020 – To date` |	**Cboe Clear**	| [`Senior Java Developer`](#march-2020---to-date) |
 | `November 2018 – March 2020` |	**Idexx**	| [`Senior Java Developer / Architect`](#november-2018---march-2020) |
 | `November 2016 – October 2018` | **Nuon / Vattenfall** | [`WSO2-IS / Java Lead Designer`](#november-2016---october-2018) |
 | `June 2016 – October 2016` |	**ING Bank** | [`Senior Java Developer`](#june-2016---october-2016) |
@@ -90,8 +90,8 @@ More than 20 years of exceptional track record in designing and implementing int
 ```
 ```
 ## March 2020 - to-date
-### **EuroCCP**
-### www.euroccp.com
+### **Cboe Clear**
+### clear.cboe.com
 ```
 ```
 ### Position: 
@@ -102,8 +102,10 @@ Developed the complete Liquidity Management Project in record time. Worked in a 
 Senior Java developer
 ### Achievement
 Built the complete Call management module. This module generates mandatory or optional debit request for trading parties, based on the current liquidity need for settling trade transaction.
+Built Post Trade API
+Cboe Clear will be launcing a new service called Securities Financing Transactions (SFT) **https://clear.cboe.com/europe/resources/roadmap_initiatives/sft**. Building the Inventory Management System for this new system.
 ### Tools and technologies
-**Java, Spring, Spring Boot, REST services**
+**Java 21, Spring, Spring Boot, REST services, Kafka, Kafka Streams, Domain Driven Design, Event Sourcing**
 
 ```
 ```
